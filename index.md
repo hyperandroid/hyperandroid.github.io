@@ -1,5 +1,4 @@
 ## Myriahedral projectiosn demo
 
-You need WebGL2 enabled for this demo to run. 
-
-[Myriahedral projections](https://hyperandroid.github.io/myriahedral)
+[Myriahedral projections - WebGL2](https://hyperandroid.github.io/myriahedral)
+[CAAT](https://hyperandroid.github.io/CAAT)
